@@ -1,3 +1,3 @@
 export default function membership() {
-  return <h1> membership page</h1>;
+  return <h1> membership page 2</h1>;
 }
